@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "lib": ["es6", "dom"],
+    "target": "ES6"
+  },
+  "exclude": ["node_modules"]
+}
